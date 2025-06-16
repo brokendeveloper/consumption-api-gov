@@ -1,4 +1,5 @@
 import pandas as pd
+pd.set_option('display.float_format', '{:,.2f}'.format)
 
 def to_dataframe(data):
     """Converte lista de dicts em DataFrame pandas."""
