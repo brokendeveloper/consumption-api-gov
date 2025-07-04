@@ -1,0 +1,36 @@
+id_plano_trabalho,situacao_plano_trabalho,ind_orcamento_proprio_plano_trabalho,data_inicio_execucao_plano_trabalho,data_fim_execucao_plano_trabalho,prazo_execucao_meses_plano_trabalho,id_plano_acao,classificacao_orcamentaria_pt,ind_justificativa_prorrogacao_atraso_pt,ind_justificativa_prorrogacao_paralizacao_pt,justificativa_prorrogacao_pt
+20393,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,9904,26.782.0465.4134.A170 ,False,False,
+19592,Enviado para Análise,Sim,2024-12-13T00:00:00,2025-12-13T00:00:00,12,70415,FUNCIONAL PROGRAMÁTICA: 28. 845.0903.0EC2.,False,False,
+20535,APROVADO,Sim,2023-08-30T00:00:00,2028-08-30T00:00:00,60,35728,"Ação 4142 e Subação 2499.
+
+",False,False,
+21060,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,10588,"Ação 4072.0000 manutenção
+Ação 3314.0000 Aquisição ",False,False,
+20700,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,11438,"26.782.4134.A170 
+13.391.0929.4724.2125
+14 422 0459 4229 ",False,False,
+20898,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,11439,Fone 0660 - GND3 e GND4,False,False,
+5259,Enviado para Análise,Sim,2024-07-03T00:00:00,2027-07-03T00:00:00,36,72783,"Programa de trabalho:                                                                  Ação/Sub-Ação                                                                        Fonte de Recursos         Natureza de Despesas        Valor
+12.364.0065.0073.0000                                    Construção e Ampliação de unidades de ensino                                         0706240000                             4490                            R$ 630.000,00
+12.364.0917.4734.2980                                        Promoção e Expansão do ensino e graduação                                            0706240000                             4490                            R$  250.000,00
+12.571.0069.4739.3001                                        Promoção da Extensão                                                                                      0706240000                             4490                            R$ 120.000,00   ",False,False,
+20550,Enviado para Análise,Sim,2022-07-01T00:00:00,2025-07-01T00:00:00,36,15240,SECULT = Subação: 13.392.0370.1718.EMWS - Ampliação do Acesso a Produção Artístico - Cultural // SECTI = Subação: 19.573.1090.0493.0000 - Apoio às Ações de Divulgação Científica e à Educação Científica do Estado // SECMULHER = 14.422.0459.2272 - Fortalecimento da Política de Gênero // ,False,False,
+20602,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,10589,"26.782.0465.4134.A170 - DER
+18.541.0478.4620.2843 - SEMAS
+12.368.0474.4072.0000 - SEE",False,False,
+20724,Enviado para Análise,Sim,2023-03-29T00:00:00,2026-03-29T00:00:00,36,16846,4055 - Ampliação da Infraestrutura e dos Serviços Básicos no Meio Rural,False,False,
+21138,Enviado para Análise,Sim,2022-07-01T00:00:00,2024-07-01T00:00:00,24,19391,13.391.0929.4724,False,False,
+20761,Enviado para Análise,Sim,2022-07-01T00:00:00,2025-07-01T00:00:00,36,17895,"4145 - Fomento à Atividade Agropecuária e ao Fortalecimento da Agricultura Familiar (PEAAF), da Agroecologia e da Produção Orgânica",False,False,
+20715,Enviado para Análise,Sim,2022-07-01T00:00:00,2026-07-01T00:00:00,48,18953,26.782.0465.4134.A170,False,False,
+21004,Enviado para Análise,Sim,2022-07-01T00:00:00,2025-07-01T00:00:00,36,18765,Ação 3314.0000 ,False,False,
+21161,Enviado para Análise,Sim,2023-03-29T00:00:00,2025-03-29T00:00:00,24,16106,13.391.0929.4724,False,False,
+20540,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,10094,26.782.0465.4134.A170,False,False,
+20190,Enviado para Análise,Sim,2023-03-29T00:00:00,2026-03-29T00:00:00,36,16630,"PROGRAMA DE TRABALHO 12.571.0069.4739.2998 - Promoção e Expansão da Pesquisa
+
+VALOR                                                   AÇÃO                                                                     NATUREZA
+150,000,00                 PROMOÇÃO E EXPANSÃO DA PESQUISA                                    3390
+
+13.391.0929.4724.2125",False,False,
+20640,Enviado para Análise,Sim,2021-09-24T00:00:00,2024-09-24T00:00:00,36,11064,26.782.0465.A170,False,False,
+21165,Enviado para Análise,Sim,2022-07-01T00:00:00,2024-07-01T00:00:00,24,15962,13.391.0929.4724,False,False,
+20984,Enviado para Análise,Não,2023-08-30T00:00:00,2026-08-30T00:00:00,36,36482,,False,False,
