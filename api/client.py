@@ -1,5 +1,5 @@
 import requests
-from config import BASE_URL, HEADERS
+from .config import BASE_URL, HEADERS
 
 class APIClient:
     def __init__(self, base_url=BASE_URL, headers=HEADERS):
